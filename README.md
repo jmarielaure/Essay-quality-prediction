@@ -50,7 +50,7 @@ After making feature engineering we progress from 55% for accuracy to 65% with a
  
 ## ENHANCEMENT :  
  
-Future step to improve our performance score could reside in:
+Future steps to improve our performance score could reside in:
  
 - Improving our features  
  
